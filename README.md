@@ -1,13 +1,13 @@
 # 全是漫画
 全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费
 
-## [下载](https://cdn.jsdelivr.net/gh/hongchacha/cartoon@main/xcartoon.apk)
-* [備用下载](https://github.com/hongchacha/cartoon/raw/main/xcartoon.apk)
+## [下载](https://cdn.jsdelivr.net/gh/hongchacha/cartoon@master/xcartoon.apk)
+* [備用下载](https://github.com/hongchacha/cartoon/raw/master/xcartoon.apk)
 * [不能安裝請下载此版](https://cdn.jsdelivr.net/gh/hongchacha/cartoon@cnv/xcartoon.apk)
 * [其他版本](https://github.com/hongchacha/cartoon/tree/cnv)
 
 ## 图示
-<img src="https://raw.githubusercontent.com/hongchacha/cartoon/main/screenshot.jpg" width="300" >
+<img src="https://raw.githubusercontent.com/hongchacha/cartoon/master/screenshot.jpg" width="300" >
 
 ## 感谢
 * https://dacota.tw/
